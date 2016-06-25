@@ -4,13 +4,21 @@ body{
     font-weight: 300;
 }
 .text-muted{
-    color:#BCCBBBB;
+    color:#bcbbbb;
 }
 .text-thin{
     font-weight:100px;
-    color:#BCCBBBB;
+    color:#bcbbbb;
 }
 .title-super{
-    font-size: 60px;
+    font-size: 40px;
+    font-weight:100px;
     color:#F8981C;
+}
+.title-logo{
+    margin-top:20px;
+}
+.hr-style{
+    height: 2px;
+    background-color: #b0b0b0;
 }
